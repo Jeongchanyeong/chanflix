@@ -1,3 +1,3 @@
 # Chanflix 2022 Update
 
-Css got so much better!
+HTML & CSS atr so much fun!
