@@ -1,3 +1,3 @@
 # Chanflix 2022 Update
 
-HTML & CSS atr so much fun!
+HTML & CSS are so much fun!
